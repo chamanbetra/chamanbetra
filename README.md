@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Chaman and I'm a Software Engineer, based in the US.</h2>
 
 ###
 
